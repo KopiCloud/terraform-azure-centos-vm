@@ -11,7 +11,7 @@ variable "linux_vm_image_publisher" {
 variable "linux_vm_image_offer" {
   type        = string
   description = "Virtual machine source image offer"
-  default     = "UbuntuServer"
+  default     = "CentOS"
 }
 
 variable "centos_7_sku" {
