@@ -1,5 +1,5 @@
 ######################
-## Ubuntu Variables ##
+## CentOS Variables ##
 ######################
 
 variable "linux_vm_image_publisher" {
