@@ -7,3 +7,5 @@ Versions included:
 
 * CentOS 7.x
 * CentOS 8.x
+
+Blog Post --> https://gmusumeci.medium.com/how-to-deploy-a-centos-linux-vm-in-azure-using-terraform-64d972008282
